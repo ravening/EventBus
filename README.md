@@ -8,7 +8,7 @@ transaction events.
 
 Clone this repository to your local machine and import it into the IDE
 as a maven project. Start the spring boot application and navigate to
-http://localhost:8080/\<endpoint> to initiate different kind of payment
+http://localhost:8080/ to initiate different kind of payment
 transactions.
 
 ### Prerequisites
